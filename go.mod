@@ -1,4 +1,4 @@
-module graphiso
+module github.com/freddyisaac/graphiso
 
 go 1.19
 
